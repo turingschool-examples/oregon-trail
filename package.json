@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test/*-test.js",
-    "test:autorun": "nodemon --exec `mocha`"
+    "test:autorun": "nodemon --exec \"mocha\""
   },
   "repository": {
     "type": "git",
